@@ -1,0 +1,74 @@
+```
+└── 📁app
+    └── 📁assets
+        └── 01.jpg
+        └── 02.jpg
+        └── 03.jpeg
+        └── 11062b_ee1766cb74d34e2280e2b3c063a15b28~mv2.jpg
+        └── 1717953236964-removebg-preview.png
+        └── facebook (1).png
+        └── facebook.png
+        └── instagram (1).png
+        └── instagram.png
+        └── Logo (1).png
+        └── twitter.png
+    └── 📁components
+        └── EventList.js
+        └── Footer.js
+        └── 📁Header
+            └── page.js
+        └── 📁resetpassword
+            └── page.js
+        └── 📁vedioPlayer
+            └── page.js
+            └── vedioPlayer.module.css
+    └── 📁config
+        └── page.js
+    └── 📁context
+        └── 📁authContext
+            └── page.js
+        └── page.js
+    └── favicon.ico
+    └── globals.css
+    └── layout.js
+    └── page.js
+    └── page.module.css
+    └── 📁pages
+        └── 📁admin
+            └── 📁adminComponents
+                └── 📁adminSidebar
+                    └── page.js
+            └── 📁adminPages
+                └── 📁bookings
+                    └── 📁approvedBooking
+                        └── page.js
+                    └── page.js
+                └── 📁dashboard
+                    └── page.js
+                └── 📁events
+                    └── page.js
+                └── 📁services
+                    └── page.js
+                └── 📁user
+                    └── page.js
+            └── page.js
+        └── 📁createAccount
+            └── page.js
+        └── 📁gallery
+            └── page.js
+        └── 📁login
+            └── page.js
+        └── 📁mybooking
+            └── page.js
+        └── page.js
+        └── 📁profile
+            └── page.js
+        └── 📁services
+            └── 📁booking
+                └── page.js
+            └── page.js
+            └── 📁[title]
+                └── page.js
+        └── _document.js
+    └── webpack.config.js
+```
